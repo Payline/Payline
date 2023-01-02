@@ -1,5 +1,5 @@
 # 👋 Hi, I’m my name is **Polina**!
-## I’m a beginner *Front-end developer* from Kharkiv.
+## I’m a *QA Engineer* from Kharkiv.
 ### Check my website: [payline](https://github.com/Payline)
 ### 📫 Mail me: polyogarko@gmail.com
 #
